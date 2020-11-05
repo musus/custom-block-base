@@ -1,0 +1,24 @@
+{
+  "name": "custom-block-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musus/custom-block-base.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musus/custom-block-base/issues"
+  },
+  "homepage": "https://github.com/musus/custom-block-base#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "12.5.0"
+  }
+}
